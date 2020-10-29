@@ -3,4 +3,4 @@
 
 Game Dev page for the Unreal Project: `DomiRune`
 ___
-<a href="https://underwrittencollective.ink"><img alt="UWC" src="https://github.com/jrpryer/DomiRune/Logo.png" width="558" /></a>
+<a href="https://underwrittencollective.ink"><img alt="UWC" src="https://github.com/jrpryer/DomiRune/blob/main/Logo.png" width="558" /></a>
